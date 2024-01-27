@@ -1,6 +1,6 @@
 # Real-Estate-Market-Analysis
 
-Designed an ETL Pipeline using Airflow and Snowflake for real estate data from https://www.redfin.com/news/data-center/
+Designed an ETL Pipeline using Airflow, Amazon EMR, and Snowflake for real estate data from https://www.redfin.com/news/data-center/
 
 Insights generated:
 - Seasonality in inventory increases from spring to summer, reaching its yearly high in summer. It starts decreasing in the fall and reaches its yearly lowest point in winter.
